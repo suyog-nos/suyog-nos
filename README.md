@@ -1,63 +1,61 @@
 <h1 align="center">Hi 👋, I'm Suyog Subedi</h1>
-<h3 align="center">🚀 Passionate Developer | Flask • MySQL • AI/ML Learner</h3>
+<h3 align="center">🚀 Full Stack Learner | Flask • MySQL • AI/ML</h3>
 
 ---
 
-🌱 I’m currently working on  
-- Smart Stationery Inventory Management System  
-- AI/ML coursework & real-world projects  
-
-💡 I’m interested in  
-- Full Stack Development  
-- Database Systems  
-- AI/ML Integration  
-
-📫 How to reach me  
-- GitHub: https://github.com/suyog-nos  
+## 🌐 Socials:
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/suyog-nos)
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack:
 
-💻 Languages  
-`Python` `JavaScript` `Java` `SQL`
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-🌐 Frontend  
-`HTML` `CSS`
+---
 
-⚙️ Backend  
-`Flask` `MySQL`
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-🧰 Tools  
-`Git` `GitHub` `XAMPP`
+---
+
+### ⚙️ Backend & Database
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🧠 AI / ML
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+---
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
 ## 📌 Projects
 
-🔹 **Interim**  
-👉 Flask + MySQL based web application with admin dashboard & product management  
-
-🔹 **aiml_coursework**  
-👉 AI/ML project focused on data analysis and model implementation  
-
-🔹 **i-mark**  
-👉 Internship-based real-world development project  
-
-🔹 **AiSubscriptionSystem**  
-👉 Java-based system for managing subscriptions  
-
-🔹 **kumari-movies**  
-👉 JavaScript-based movie-related project  
-
----
-
-## 🚀 Goals
-
-- Build production-ready full stack apps  
-- Improve UI/UX design skills  
-- Strengthen backend architecture  
-- Work on scalable AI-integrated systems  
+🔹 **Interim** – Smart Stationery IMS (Flask + MySQL)  
+🔹 **aiml_coursework** – ML models & datasets  
+🔹 **i-mark** – Internship-based system  
+🔹 **AiSubscriptionSystem** – Java backend system  
+🔹 **kumari-movies** – JS-based app  
 
 ---
 
@@ -70,11 +68,13 @@
 
 ---
 
-## ⚡ Fun Fact
-
-I don’t just write code…  
-I debug life like a developer 😄
+## 🎯 Goals
+- Build scalable systems  
+- Improve UI/UX  
+- Deploy real-world apps  
+- Integrate AI into projects  
 
 ---
 
-⭐ From [suyog-nos](https://github.com/suyog-nos)
+## ⚡ Fun Fact
+I turn bugs into features 😄

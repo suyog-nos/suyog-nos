@@ -1,86 +1,80 @@
-# Hi, I'm Suyog Subedi 👋
-
-### Aspiring Software Developer | Python, Flask, MySQL, JavaScript | AI/ML Learner
-
-I am a passionate developer focused on building practical web applications, academic projects, and system-based solutions.  
-My work includes Flask + MySQL applications, frontend development, AI/ML coursework, and real-world project implementation.
+<h1 align="center">Hi 👋, I'm Suyog Subedi</h1>
+<h3 align="center">🚀 Passionate Developer | Flask • MySQL • AI/ML Learner</h3>
 
 ---
 
-## 🚀 About Me
-- 💻 Building web applications with Python, Flask, HTML, CSS, JavaScript, and MySQL
-- 🧠 Interested in AI/ML, software systems, and problem-solving
-- 📚 Working on academic, internship, and personal development projects
-- 🔍 Focused on improving project structure, UI/UX, and deployment readiness
+🌱 I’m currently working on  
+- Smart Stationery Inventory Management System  
+- AI/ML coursework & real-world projects  
+
+💡 I’m interested in  
+- Full Stack Development  
+- Database Systems  
+- AI/ML Integration  
+
+📫 How to reach me  
+- GitHub: https://github.com/suyog-nos  
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages & Core Tools**
-- Python
-- JavaScript
-- HTML
-- CSS
-- SQL
-- Java
 
-**Frameworks / Platforms**
-- Flask
-- MySQL
-- XAMPP
-- Git & GitHub
+💻 Languages  
+`Python` `JavaScript` `Java` `SQL`
 
-**Areas I Work On**
-- Web Development
-- Database-Driven Applications
-- Admin Dashboards
-- Inventory / Management Systems
-- AI/ML Academic Projects
+🌐 Frontend  
+`HTML` `CSS`
+
+⚙️ Backend  
+`Flask` `MySQL`
+
+🧰 Tools  
+`Git` `GitHub` `XAMPP`
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
-### 1. Interim
-A web application built with Python Flask and MySQL database.  
-Includes backend logic, templates, static assets, and database integration.
+🔹 **Interim**  
+👉 Flask + MySQL based web application with admin dashboard & product management  
 
-### 2. aiml_coursework
-AI/ML coursework repository focused on wine quality related work and notebook-based implementation.
+🔹 **aiml_coursework**  
+👉 AI/ML project focused on data analysis and model implementation  
 
-### 3. i-mark
-Internship-based project work with practical implementation and development tasks.
+🔹 **i-mark**  
+👉 Internship-based real-world development project  
 
-### 4. AiSubscriptionSystem
-Project related to an AI subscription model using Java.
+🔹 **AiSubscriptionSystem**  
+👉 Java-based system for managing subscriptions  
 
-### 5. kumari-movies-
-JavaScript-based project repository.
-
----
-
-## 🎯 Current Goals
-- Improve full-stack project quality
-- Build cleaner and more responsive UI
-- Strengthen backend architecture
-- Publish more polished GitHub repositories with proper documentation
-- Continue learning AI/ML and production-ready development
+🔹 **kumari-movies**  
+👉 JavaScript-based movie-related project  
 
 ---
 
-## 📈 GitHub Focus
-I use GitHub to:
-- Store and manage project source code
-- Document my academic and development work
-- Track improvements in my projects
-- Build a stronger professional developer portfolio
+## 🚀 Goals
+
+- Build production-ready full stack apps  
+- Improve UI/UX design skills  
+- Strengthen backend architecture  
+- Work on scalable AI-integrated systems  
 
 ---
 
-## 🤝 Connect With Me
-- GitHub: [github.com/suyog-nos](https://github.com/suyog-nos)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suyog-nos&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suyog-nos&theme=tokyonight" />
+</p>
 
 ---
 
-## 📌 Note
-This profile highlights my ongoing learning journey, practical development work, and growing project portfolio.
+## ⚡ Fun Fact
+
+I don’t just write code…  
+I debug life like a developer 😄
+
+---
+
+⭐ From [suyog-nos](https://github.com/suyog-nos)
